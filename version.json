@@ -1,0 +1,22 @@
+[
+    {
+        "version": "1.0",
+        "script": "G9-banking"
+    },
+    {
+        "version": "1.0",
+        "script": "G9-vehicleshop"
+    },
+    {
+        "version": "1.0",
+        "script": "G9-shop"
+    },
+    {
+        "version": "1.0",
+        "script": "G9-loading"
+    },
+    {
+        "version": "1.0",
+        "script": "G9-fpsmenu"
+    }
+]
